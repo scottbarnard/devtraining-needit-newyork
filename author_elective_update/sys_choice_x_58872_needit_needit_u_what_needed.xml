@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by>scott@thebarnards.org</sys_created_by>
+            <sys_created_on/>
+            <sys_id>d2f518074f3e3300350bb5e18110c738</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+            <sys_updated_by>scott@thebarnards.org</sys_updated_by>
+            <sys_updated_on>2019-08-07 10:06:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>fff72205db3187082ffa7236bf961936</instance_id>
+        <instance_name>dev46335</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by>scott@thebarnards.org</sys_created_by><sys_created_on/><sys_id>d2f518074f3e3300350bb5e18110c738</sys_id><sys_mod_count/><sys_name>u_what_needed</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name><sys_updated_by>scott@thebarnards.org</sys_updated_by><sys_updated_on>2019-08-07 10:06:17</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1116757907</payload_hash>
+        <record_name>Task.u_what_needed</record_name>
+        <reverted_from/>
+        <source>260654434f3e3300350bb5e18110c719</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>scott@thebarnards.org</sys_created_by>
+        <sys_created_on>2019-08-07 10:06:17</sys_created_on>
+        <sys_id>33da283e4f837f00350bb5e18110c7f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c6b8b25b50000001</sys_recorded_at>
+        <sys_updated_by>scott@thebarnards.org</sys_updated_by>
+        <sys_updated_on>2019-08-07 10:06:17</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>bbda283e01837f00cb1ccfff7fd44df2</update_guid>
+        <update_guid_history>bbda283e01837f00cb1ccfff7fd44df2:1116757907,37da283e79837f002a7568b12c8a8cef:-915848390,73da283e36837f00533e00781284adec:-567701384,bfda283e3c837f00c51d7fcbe7ed08e8:-1423691141,fbda283ea2837f0061e6c7633624fee5:-709049971,3bda283e47837f00b6e6ee278bee52e2:-1389990280,77da283e79837f005724dd4730c8a4df:221069324,b3da283edf837f002e69f8fdbe9792dc:115963504,ffda283e79837f004762c74e5dbfcad8:-495418659,f2f51807563e33003c7cf36e805881fc:2037410899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>scott@thebarnards.org</sys_created_by>
+        <sys_created_on>2019-08-07 10:06:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>6aeae83e4f837f00350bb5e18110c73a</sys_id>
+        <sys_metadata>6aeae83e4f837f00350bb5e18110c73a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">33da283e4f837f00350bb5e18110c7f3</sys_update_version>
+        <sys_updated_by>scott@thebarnards.org</sys_updated_by>
+        <sys_updated_on>2019-08-07 10:06:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
